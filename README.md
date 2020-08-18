@@ -2,7 +2,7 @@
 Mavenized version of Amazon MWS EasyShip API
 
 [![Hits-of-Code](https://hitsofcode.com/github/chameleontartu/amazon-mws-easyship-maven)](https://hitsofcode.com/view/github/chameleontartu/amazon-mws-easyship-maven)
-[![Travis CI](https://travis-ci.org/ChameleonTartu/amazon-mws-easyship-maven.svg?branch=master)](https://travis-ci.org/ChameleonTartu/amazon-mws-easyship-maven)
+[![Travis CI](https://travis-ci.com/ChameleonTartu/amazon-mws-easyship-maven.svg?branch=master)](https://travis-ci.com/ChameleonTartu/amazon-mws-easyship-maven)
 ![Maven Central](https://img.shields.io/maven-central/v/com.github.chameleontartu/amazon-mws-easyship-maven)
 [![](https://jitpack.io/v/ChameleonTartu/amazon-mws-easyship-maven.svg)](https://jitpack.io/#ChameleonTartu/amazon-mws-easyship-maven)
 
